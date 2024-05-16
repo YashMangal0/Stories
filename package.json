@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "concurrently \"npm run dev:server\" \"next dev\"",
-    "dev:server": "node server/index.js",
+    "dev:server": "https://stories-backend-b8c0.onrender.com",
     "build": "next build",
     "start": "next start"
   },
